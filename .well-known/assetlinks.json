@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "org.tsunami.app",
+               "sha256_cert_fingerprints": ["3B:C8:22:76:38:CE:D3:95:64:FC:53:4D:FF:80:61:3E:49:C8:EC:D0:7E:62:97:6A:B0:FF:5A:AC:A1:B4:28:F9"] }
+}]
